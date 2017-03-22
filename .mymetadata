@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ssh_onlineVote"
+  id="myeclipse.1489731488541"
+  context-root="/ssh_onlineVote"
+  j2ee-spec="5.0"
+  archive="ssh_onlineVote.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
